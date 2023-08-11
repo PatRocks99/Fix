@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/f1tenth/software/f1tenth_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/f1tenth/software/f1tenth_ws/src/f1tenth_system/racecar/ackermann_cmd_mux/include/**",
+        "/home/f1tenth/software/f1tenth_ws/src/f1tenth_system/hokuyo_node/include/**",
+        "/home/f1tenth/software/f1tenth_ws/src/f1tenth_system/serial/include/**",
+        "/home/f1tenth/software/f1tenth_ws/src/f1tenth_system/vesc/vesc_ackermann/include/**",
+        "/home/f1tenth/software/f1tenth_ws/src/f1tenth_system/vesc/vesc_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
